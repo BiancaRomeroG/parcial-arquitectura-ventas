@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ventasParcialArquitectura</string>
+    <string name="product_name">Nombre del producto</string>
+    <string name="product_image_desc">Imagen del producto</string>
+    <string name="edit_product">Editar Producto</string>
+    <string name="delete_product">Eliminar Producto</string>
+</resources>
